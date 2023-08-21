@@ -11,7 +11,7 @@ int main()
     int tips;
     cin >> tips;
 
-    cout << "\nSuponiendo que trabaja 40 horas a la semana durante todo el año, su salario anual es...1 \n\n";
+    cout << "\nSuponiendo que trabaja 40 horas a la semana durante todo el año, su salario anual es.. \n\n";
     cout << wage * 40 * 52 + (tips * 12);
     cout << "\n\n";
     cout << endl;
