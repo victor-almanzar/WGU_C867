@@ -4,7 +4,7 @@
       "name": "C/C++: aarch64-linux-gnu-g++-11 build and debug active file",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "program": "/workspaces/WGU_C867/build/${fileBasenameNoExtension}",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${fileDirname}",
