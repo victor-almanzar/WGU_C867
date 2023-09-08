@@ -33,4 +33,4 @@
 build/
 
 # test file
-HelloWorld.cpp
+workspaces/WGU_C867/src/HelloWorld.cpp
