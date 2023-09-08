@@ -32,5 +32,3 @@
 *.app
 build/
 
-# test file
-workspaces/WGU_C867/src/HelloWorld.cpp
