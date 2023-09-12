@@ -1,4 +1,4 @@
-// /* 
+//
 // 4.24 LAB: Exact change
 // Write a program with total change amount as an integer input, 
 // and output the change using the fewest coins, one coin type per line. 
@@ -17,7 +17,7 @@
 //   the output is:
 //     1 Quarter
 //     2 Dimes 
-// */
+//
 
 // #include <iostream>
 // using namespace std;
