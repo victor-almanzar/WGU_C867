@@ -21,7 +21,7 @@ int main() {
    else {
       overtimeHours = weeklyHours - WEEKLY_LIMIT;
       weeklySalary = static_cast<int>((hourlyWage * WEEKLY_LIMIT) +
-                                      (hourlyWage * overtimeHours * 1.5));
+      (hourlyWage * overtimeHours * 1.5));
    }
    cout << "Weekly salary is: " << weeklySalary << endl;
 
